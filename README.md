@@ -8,6 +8,7 @@
 
 ### 前端知识总结
 - [01.doT模板引擎语法](https://github.com/Zhouxingzu/my-index/tree/master/2018%E5%B9%B4/doT%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95)
+- [02.常用format方法](https://github.com/Zhouxingzu/my-index/blob/master/2018%E5%B9%B4/%E5%B8%B8%E7%94%A8format%E6%96%B9%E6%B3%95/fomat_tool.js)
 
 ### 对付CSS我自有妙计
 - [01.多列均匀布局问题](https://github.com/Zhouxingzu/zhouxingzu.github.io/issues/2)
