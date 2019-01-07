@@ -20,3 +20,6 @@
 ![效果预览](https://raw.githubusercontent.com/Zhouxingzu/zhouxingzu.github.io/master/2018%E5%B9%B4/imgs/1.png)
 
 - [02.loading效果](https://github.com/Zhouxingzu/my-index/tree/master/2018%E5%B9%B4/css%E5%A6%99%E8%AE%A1/loading%E6%95%88%E6%9E%9C)
+
+### 前端JS基础
+- [01.理解和熟练运用js中的call及apply](https://github.com/Zhouxingzu/my-index/tree/master/2018%E5%B9%B4/doT%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95)
