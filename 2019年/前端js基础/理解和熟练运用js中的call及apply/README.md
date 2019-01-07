@@ -9,12 +9,13 @@ cat.prototype={
 		alert("I love "+this.food);     
 	}
 }
-var blackCat = new cat;blackCat.say(); 
+var blackCat = new cat;
+blackCat.say(); 
 ```
 
 但是如果我们有一个对象`whiteDog={food:"bone"}`,我们不想对它重新定义say方法，那么我们可以通过call或apply用blackCat的say方法：blackCat.say.call(whiteDog);所以，可以看出call和apply是为了动态改变this而出现的，当一个object没有某个方法，但是其他的有，我们可以借助call或apply用其它对象的方法来操作。
 
-简化记忆法：
+> 简化记忆法：
 ```
 有天狗想吃鱼了
 

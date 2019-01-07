@@ -22,4 +22,4 @@
 - [02.loading效果](https://github.com/Zhouxingzu/my-index/tree/master/2018%E5%B9%B4/css%E5%A6%99%E8%AE%A1/loading%E6%95%88%E6%9E%9C)
 
 ### 前端JS基础
-- [01.理解和熟练运用js中的call及apply](https://github.com/Zhouxingzu/my-index/tree/master/2018%E5%B9%B4/doT%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95)
+- [01.理解和熟练运用js中的call及apply](https://github.com/Zhouxingzu/my-index/tree/master/2019%E5%B9%B4/%E5%89%8D%E7%AB%AFjs%E5%9F%BA%E7%A1%80/%E7%90%86%E8%A7%A3%E5%92%8C%E7%86%9F%E7%BB%83%E8%BF%90%E7%94%A8js%E4%B8%AD%E7%9A%84call%E5%8F%8Aapply)
