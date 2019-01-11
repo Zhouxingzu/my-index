@@ -1,0 +1,23 @@
+.content{
+    margin-left: 100px;
+}
+.mes-select{
+    cursor: pointer;
+}
+.input-mes-select{
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    display: none;
+}
+.input-mes-select+span{
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background: url('./imgs/select.png') center no-repeat;
+}
+.input-mes-select:checked+span{
+    background: url('./imgs/checked.png') center no-repeat;
+}
