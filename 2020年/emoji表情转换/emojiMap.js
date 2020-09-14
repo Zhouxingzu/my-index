@@ -1,5 +1,5 @@
-var emojiUrl = 'https://imgcache.qq.com/open/qcloud/tim/assets/emoji/';
-var emojiMap = {
+export const emojiUrl = 'https://imgcache.qq.com/open/qcloud/tim/assets/emoji/';
+export const emojiMap = {
     '[NO]': 'emoji_0@2x.png',
     '[OK]': 'emoji_1@2x.png',
     '[下雨]': 'emoji_2@2x.png',
@@ -144,7 +144,7 @@ var emojiMap = {
     '[龇牙]': 'emoji_141@2x.png'
 };
 
-var emojiName = [
+export const emojiName = [
     '[龇牙]',
     '[调皮]',
     '[流汗]',
@@ -284,9 +284,3 @@ var emojiName = [
     '[手枪]',
     '[青蛙]'
 ];
-
-module.exports = {
-    emojiUrl,
-    emojiMap,
-    emojiName
-};
