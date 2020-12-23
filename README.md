@@ -15,10 +15,6 @@
 ### 对付CSS我自有妙计
 - [01.多列均匀布局问题](https://github.com/Zhouxingzu/zhouxingzu.github.io/issues/2)
 
-如何用css实现下列这种多列均匀布局：
-
-![效果预览](https://raw.githubusercontent.com/Zhouxingzu/zhouxingzu.github.io/master/2018%E5%B9%B4/imgs/1.png)
-
 - [02.loading效果](https://github.com/Zhouxingzu/my-index/tree/master/2018%E5%B9%B4/css%E5%A6%99%E8%AE%A1/loading%E6%95%88%E6%9E%9C)
 
 - [03.美化原生input选择框样式](https://github.com/Zhouxingzu/my-index/tree/master/2018%E5%B9%B4/css%E5%A6%99%E8%AE%A1/%E7%BE%8E%E5%8C%96%E5%8E%9F%E7%94%9Finput%E9%80%89%E6%8B%A9%E6%A1%86%E6%A0%B7%E5%BC%8F)
