@@ -75,11 +75,10 @@ console.log(utils(1, 2));
 在ES6中，从语法层面就提供了模块化的功能。然而受限于浏览器的实现程度，如果想要在浏览器中运行，还是需要通过Babel等转译工具进行编译。ES6提供了import和export命令，分别对应模块的导入和导出功能。具体实例如下：
 ```
 // demo.js 模块定义
-var name = "scq000";
 var sayHello = (name) => {
   console.log("Hi，" + name);
 }
-export {name, sayHello};
+export {sayHello};
  
 // app.js 使用模块
 import {sayHello} from "./demo";
